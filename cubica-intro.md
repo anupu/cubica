@@ -46,7 +46,7 @@ and gear -- making your mage build feel genuinely progressive, not just loot-dep
    <summary><ins>I want to know more</ins></summary>
 
    **How to get started:**
-   
+
    1. Start exploring immediately. Spell Scrolls and Arcane Essence drop from loot chests
       in structures and from hostile mobs across the world. The mod adds seven unique
       structures -- look out for **Wizard Towers** and similar builds -- and killing the
@@ -131,6 +131,7 @@ modpack.
    <summary><ins>I want to know more</ins></summary>
 
    **Enchanting overhaul:**
+
    Apotheosis replaces the vanilla "roll a random combo" enchanting with a three-stat
    system. Instead of one slot that takes levels, you now see three values:
 
@@ -142,17 +143,14 @@ modpack.
    surrounding it. You can also pick enchantments individually, and the Anvil cap has
    been removed.
 
-      <!-- IMAGE PLACEHOLDER -->
-      <!-- Screenshot: Apotheosis enchanting table UI showing Eterna/Quanta/Arcana stats -->
-      <!-- Source: https://www.curseforge.com/minecraft/mc-mods/apotheosis -->
-      ![Apotheosis Enchanting Table UI](PLACEHOLDER_apotheosis_enchanting_ui.png)
-
    **Shelf progression** (place these around your enchanting table for more power):
+
    Start with vanilla Bookshelves, then progress through Nether-material shelves like
    **Hellshelf** and **Seashelf**, all the way to endgame **Draconic Endshelf** for
    the maximum possible enchanting setup.
 
    **Affix loot:**
+
    Any piece of gear you find in the world now has a chance to be an Affix Item -- a
    colored, named drop with randomized bonuses like "deals fire damage on hit" or
    "grants extra movement speed." These come in five rarities: Common, Uncommon, Rare,
@@ -163,13 +161,15 @@ modpack.
    Materials, which you then use at a **Reforging Table** to roll your own Affix Items.
 
    **World Tiers and Bosses:**
-   As you explore, the world progresses through World Tiers. From Tier 1 (Frontier)
-   onwards, **Apothic Invaders** start appearing -- empowered named enemies that drop
+
+   As you explore, the world progresses through World Tiers (view/ select: CTRL + T). 
+   ![1777667767190](image/cubica-intro/1777667767190.png)
+   From Tier 1 (Frontier) onwards, **Apothic Invaders** start appearing -- empowered named enemies that drop
    guaranteed high-quality Affix Items. They are announced by a beam of light from the
    sky and a loud sound. Defeating your first Invader is required to advance to the next
    World Tier.
 
-   **What else does Apotheosis add?** (explore these later!)
+   **What else does Apotheosis add?**
    - **Spawner rework:** Pick up spawners with Silk Touch. Modify their spawn rate,
    mobs, and conditions. Extremely powerful for mob farms.
    - **New potions:** New brews with effects not found in vanilla.
@@ -193,6 +193,8 @@ complete opposite of the Nether. It is bright, floating, and full of islands, al
 mobs, and three unique dungeons each with their own boss. Think of it as a parallel
 mid-game adventure path alongside the Nether.
 
+![1777667980597](image/cubica-intro/1777667980597.png)
+
 <details>
    <summary><ins>I want to know more</ins></summary>
 
@@ -202,10 +204,7 @@ mid-game adventure path alongside the Nether.
       Piglin traders). Build a portal frame the same shape as a Nether portal, but
       use **Glowstone blocks** instead of Obsidian.
 
-      <!-- IMAGE PLACEHOLDER -->
-      <!-- Screenshot: Glowstone portal frame (4x5 minimum, same shape as Nether portal) -->
-      <!-- Source: https://aether.wiki.gg -->
-      ![Aether Portal Frame](PLACEHOLDER_aether_portal_frame.png)
+      ![1777667917983](image/cubica-intro/1777667917983.png)
 
    2. Light it with a **bucket of water** (right-click the inside of the frame).
       The portal turns blue and shimmery. Step through!
@@ -227,10 +226,6 @@ mid-game adventure path alongside the Nether.
       - **Zanite Gemstones** (from Zanite Ore -- equivalent to Iron) for strong tools
       - **Gravitite Ore** (the top-tier material; floats upward when mined -- catch it!)
 
-      <!-- IMAGE PLACEHOLDER -->
-      <!-- Screenshot: Aether dimension with islands, Skyroot trees, and Ambrosium Ore visible -->
-      <!-- Source: https://aether.wiki.gg -->
-      ![The Aether Dimension](PLACEHOLDER_aether_dimension.png)
 
    5. Tame a **Moa** as your flying mount! Moa eggs can be found and hatched in the
       **Incubator** (an Aether utility block). Moas can jump multiple times mid-air,
@@ -322,10 +317,7 @@ more generators, the system will **overstress and stop entirely**.
       determines the direction of rotation -- connect it to your machines using
       **Shafts** and **Gearboxes**.
 
-      <!-- IMAGE PLACEHOLDER -->
-      <!-- Screenshot: A Water Wheel placed in a river, connected to a shaft going to a machine -->
-      <!-- Source: https://create.fandom.com/wiki/Water_Wheel -->
-      ![Water Wheel Setup](PLACEHOLDER_create_water_wheel.png)
+      ![1777668106057](image/cubica-intro/1777668106057.png)
 
    3. Connect the Water Wheel to a **Mechanical Press** via Shafts. The Press is your
       most important early machine -- it presses Iron Ingots into Sheets, which are
@@ -334,11 +326,6 @@ more generators, the system will **overstress and stop entirely**.
    4. Next, work toward the **Mixer + Basin** combo for smelting Brass. Once you have
       Brass, the whole mod opens up: faster transport (Belts), better machines, and
       eventually trains, flying machines, and much more.
-
-      <!-- IMAGE PLACEHOLDER -->
-      <!-- Screenshot: A Mechanical Mixer above a Basin, producing Brass from Copper and Zinc -->
-      <!-- Source: https://create.fandom.com/wiki/Brass -->
-      ![Mechanical Mixer and Basin](PLACEHOLDER_create_mixer_basin.png)
 
    **Useful speed tips:**
    - Use **Small Cogwheels on Large Cogwheels** to double rotation speed (but also
@@ -396,10 +383,7 @@ almost anything on demand. "ME" stands for Matter Energy.
       **Meteorite Compass** (needs a small amount of Certus Quartz, which spawns
       underground). The Compass points to the nearest meteorite.
 
-      <!-- IMAGE PLACEHOLDER -->
-      <!-- Screenshot: A Meteorite crater in the world with Sky Stone blocks visible -->
-      <!-- Source: https://appliedenergistics.org -->
-      ![AE2 Meteorite Crater](PLACEHOLDER_ae2_meteorite.png)
+      ![1777668285351](image/cubica-intro/1777668285351.png)
 
    2. Dig into the **center** of the meteorite to find the **Mysterious Cube**. Break it
       to receive all **four Inscriber Presses** -- these are required to craft the
@@ -416,10 +400,7 @@ almost anything on demand. "ME" stands for Matter Energy.
       **Fluix Crystals** by throwing Charged Certus Quartz, Redstone Dust, and Nether
       Quartz into a pool of water together.
 
-      <!-- IMAGE PLACEHOLDER -->
-      <!-- Screenshot: Growth Accelerators placed around a Budding Certus block -->
-      <!-- Source: https://appliedenergistics.org -->
-      ![Growth Accelerators on Budding Certus](PLACEHOLDER_ae2_growth_accelerators.png)
+      ![1777668371933](image/cubica-intro/1777668371933.png)
 
    4. Craft an **Inscriber** and use your four Presses to make the three processor types
       (Logic, Calculation, Engineering). You now have everything you need for your first
@@ -431,10 +412,7 @@ almost anything on demand. "ME" stands for Matter Energy.
       - **ME Drive** -- holds Storage Cells
       - **ME Terminal** -- your access point; place on a cable connected to the above
 
-      <!-- IMAGE PLACEHOLDER -->
-      <!-- Screenshot: A minimal AE2 network: Controller, Energy Acceptor, Drive, and Terminal -->
-      <!-- Source: https://appliedenergistics.org -->
-      ![Minimal AE2 Network](PLACEHOLDER_ae2_basic_network.png)
+      ![1777668404558](image/cubica-intro/1777668404558.png)
 
    **Key AE2 concepts:**
 
@@ -446,10 +424,13 @@ almost anything on demand. "ME" stands for Matter Energy.
    | Autocrafting      | Set up Patterns so the network crafts items for you        |
    | P2P Tunnel        | Routes channels cleanly through walls for big networks     |
 
+   **Wiki:** [https://guide.appliedenergistics.org/1.21.1/getting-started](https://guide.appliedenergistics.org/1.21.1/getting-started)
+
    > **Pro tip:** Start with just a Controller, Energy Acceptor, Drive, and Terminal.
    > Do not worry about autocrafting yet -- even a basic searchable inventory for your
    > whole base is a massive quality of life upgrade. A **4k Storage Cell** as your
    > first cell covers most of early-mid game needs.
+
 </details>
 
 [^ Back to Top](#table-of-contents)
@@ -640,10 +621,7 @@ supplies your base with resources around the clock.
       to **Inferium Essence Farmland**. Each tier of Essence Farmland increases the
       Inferium dropped per harvest by 50%.
 
-      <!-- IMAGE PLACEHOLDER -->
-      <!-- Screenshot: Inferium Ore underground, and Inferium Seeds growing on Essence Farmland -->
-      <!-- Source: https://blakesmods.com/wiki/mysticalagriculture -->
-      ![Inferium Ore and Seeds](PLACEHOLDER_ma_inferium_ore_seeds.png)
+      ![1777668531430](image/cubica-intro/1777668531430.png)
 
    3. To upgrade Inferium Essence to the next tier, use an **Infusion Crystal**. Combine
       four of the lower tier into one of the higher tier. The full tier ladder is:
@@ -655,10 +633,7 @@ supplies your base with resources around the clock.
       with a Redstone signal. Seeds require a Prosperity Shard Seed Base, the matching
       tier Essence, and a piece of the resource you want to grow.
 
-      <!-- IMAGE PLACEHOLDER -->
-      <!-- Screenshot: The Infusion Altar with 8 pedestals placed around it, crafting a seed -->
-      <!-- Source: https://blakesmods.com/wiki/mysticalagriculture -->
-      ![Infusion Altar Setup](PLACEHOLDER_ma_infusion_altar.png)
+      ![1777668569461](image/cubica-intro/1777668569461.png)
 
    5. Plant Resource Seeds on Essence Farmland of the matching tier. Place
       **Growth Accelerators** underneath the farmland to speed up growth -- they stack,
@@ -678,6 +653,8 @@ supplies your base with resources around the clock.
    above. A full set of Supremium Armor lets you fly. You can further upgrade the gear
    with **Augments** on a **Tinkering Table** for effects like Absorption hearts,
    Jump Boost, Fire Resistance, and more.
+
+   **Wiki:** [https://blakesmods.com/wiki/mysticalagriculture/guides/getting-started](https://blakesmods.com/wiki/mysticalagriculture/guides/getting-started)
 
    > **Pro tip:** Mystical Agriculture is a long-term investment. Plant a small patch
    > of Inferium Seeds early, then ignore it. By mid-game you will have enough essence
@@ -712,11 +689,6 @@ a full gear progression tied to the Warden and the sculk theme.
       will know it by the sculk carpet covering the floor and the oppressive dark.
       Ancient Cities generate within it.
 
-      <!-- IMAGE PLACEHOLDER -->
-      <!-- Screenshot: A Deep Dark biome with sculk carpet, shriekers and sensors visible -->
-      <!-- Source: https://www.curseforge.com/minecraft/mc-mods/deeperdarker -->
-      ![Deep Dark Biome](PLACEHOLDER_dd_deep_dark.png)
-
    2. To open the portal to the Otherside, you need the **Heart of the Deep** -- a
       guaranteed drop from killing the **Warden**. This is intentional: the Otherside
       is designed as post-Warden content.
@@ -726,10 +698,7 @@ a full gear progression tied to the Warden and the sculk theme.
       Right-click the frame with the Heart of the Deep to ignite the portal.
       The Heart is not consumed -- you can light multiple portals with one Heart.
 
-      <!-- IMAGE PLACEHOLDER -->
-      <!-- Screenshot: The Reinforced Deepslate portal frame in an Ancient City, glowing after activation -->
-      <!-- Source: https://www.minecraft-guides.com/wiki/deeper-and-darker/ -->
-      ![Otherside Portal Activated](PLACEHOLDER_dd_otherside_portal.png)
+      ![1777668714522](image/cubica-intro/1777668714522.png)
 
       > **Critical:** Before entering the Otherside, write down your portal coordinates!
       > If you lose the portal, the only way back to the Overworld is to die.
@@ -766,6 +735,8 @@ a full gear progression tied to the Warden and the sculk theme.
    > **Warning:** The Warden still spawns in the Otherside when Sculk Shriekers are
    > triggered. Sneak constantly, move slowly, and keep noise to a minimum -- the same
    > rules as the Deep Dark still apply, but now with worse visibility and more mobs.
+
+   **Wiki:** [https://www.minecraft-guides.com/wiki/deeper-and-darker/(https://www.minecraft-guides.com/wiki/deeper-and-darker/)]
 </details>
 
 [^ Back to Top](#table-of-contents)
@@ -789,10 +760,7 @@ destination for mid-game players looking for something different.
    1. Craft a **Catalyst** -- the item used to activate the Undergarden portal.
       It is crafted from Gold Ingots, Iron Ingots, and a Diamond.
 
-      <!-- IMAGE PLACEHOLDER -->
-      <!-- Screenshot: Catalyst crafting recipe in a crafting table -->
-      <!-- Source: https://www.curseforge.com/minecraft/mc-mods/the-undergarden -->
-      ![Undergarden Catalyst Recipe](PLACEHOLDER_ug_catalyst_recipe.png)
+      ![1777668812811](image/cubica-intro/1777668812811.png)
 
    2. Build a portal frame the same shape as a Nether portal but using **Stone Bricks**
       or **Deepslate Bricks** instead of Obsidian.
@@ -800,10 +768,7 @@ destination for mid-game players looking for something different.
    3. Right-click the **bottom inner block** of the frame with the Catalyst to activate
       the portal. Step through!
 
-      <!-- IMAGE PLACEHOLDER -->
-      <!-- Screenshot: The Undergarden dimension viewed from just inside the portal, showing the alien landscape -->
-      <!-- Source: https://www.curseforge.com/minecraft/mc-mods/the-undergarden -->
-      ![The Undergarden Dimension](PLACEHOLDER_ug_dimension.png)
+      ![1777668830108](image/cubica-intro/1777668830108.png)
 
    4. The Undergarden has four tiers of ore and gear, in progression order:
 
