@@ -42,67 +42,73 @@ and Void. You collect spell scrolls, inscribe them into a spell book, and cast t
 using mana. Each spell has multiple levels and levels up as you upgrade your equipment
 and gear -- making your mage build feel genuinely progressive, not just loot-dependent.
 
+<details>
+   <summary><ins>I want to know more</ins></summary>
 
-1. Start exploring immediately. Spell Scrolls and Arcane Essence drop from loot chests
-   in structures and from hostile mobs across the world. The mod adds seven unique
-   structures -- look out for **Wizard Towers** and similar builds -- and killing the
-   wizard enemies inside is one of the best early sources of scrolls and gear.
+   **How to get started:**
 
-2. Once you have a spell scroll, craft an **Inscription Table**. This
-   workstation is where you slot scrolls into spell books to learn spells.
+   1. Start exploring immediately. Spell Scrolls and Arcane Essence drop from loot chests
+      in structures and from hostile mobs across the world. The mod adds seven unique
+      structures -- look out for **Wizard Towers** and similar builds -- and killing the
+      wizard enemies inside is one of the best early sources of scrolls and gear.
 
-   ![1777665124581](image/cubica-intro/1777665124581.png)
+   2. Once you have a spell scroll, craft an **Inscription Table**. This
+      workstation is where you slot scrolls into spell books to learn spells.
 
-3. Craft your first spell book. The cheapest is the **Flimsy Journal** or the
-   **Ironbound Tome** -- these hold a limited number of spell slots. Spellbooks
-   follow vanilla tiers (Iron, Diamond, Netherite) as you progress, with higher
-   tiers holding more spells and providing more mana.
+      ![1777665124581](image/cubica-intro/1777665124581.png)
 
-4. Equip the spell book in your main hand. Use **V** (default keybind) to cast
-   the currently selected spell. Change your spells using **R** (default keybind).
-   You can also equip a **Staff** in your main hand and right-click to cast, freeing
-   up your off-hand for a shield or another item (or vice versa).
+   3. Craft your first spell book. The cheapest is the **Flimsy Journal** or the
+      **Ironbound Tome** -- these hold a limited number of spell slots. Spellbooks
+      follow vanilla tiers (Iron, Diamond, Netherite) as you progress, with higher
+      tiers holding more spells and providing more mana.
 
-5. Once you have enough **Arcane Essence**, craft the **Wandering Magician** armor
-   set (leather armor combined with Arcane Essence). It is cheap and gives meaningful
-   mana and spell power bonuses right away -- a big upgrade from nothing.
+   4. Equip the spell book in your main hand. Use **V** (default keybind) to cast
+      the currently selected spell. Change your spells using **R** (default keybind).
+      You can also equip a **Staff** in your main hand and right-click to cast, freeing
+      up your off-hand for a shield or another item (or vice versa).
 
-6. Mid-game, unlock the **Arcane Anvil** workstation. It lets you:
-   - Combine two identical scrolls of the same level to create a higher-level version
-   - Bind spells directly onto weapons (sword with a Fireball charge, for example)
-   - Upgrade your spell slot capacity with **Lesser Spell Slot Upgrades**
+   5. Once you have enough **Arcane Essence**, craft the **Wandering Magician** armor
+      set (leather armor combined with Arcane Essence). It is cheap and gives meaningful
+      mana and spell power bonuses right away -- a big upgrade from nothing.
 
-7. For ink and late-game scroll crafting, use the **Alchemist Cauldron** (place it
-   over a campfire, add water, toss in unwanted spells to brew inks). Inks are used
-   in the **Scroll Forge** to craft custom scrolls of your chosen school.
+   6. Mid-game, unlock the **Arcane Anvil** workstation. It lets you:
+      - Combine two identical scrolls of the same level to create a higher-level version
+      - Bind spells directly onto weapons (sword with a Fireball charge, for example)
+      - Upgrade your spell slot capacity with **Lesser Spell Slot Upgrades**
 
-**The three progression phases:**
+   7. For ink and late-game scroll crafting, use the **Alchemist Cauldron** (place it
+      over a campfire, add water, toss in unwanted spells to brew inks). Inks are used
+      in the **Scroll Forge** to craft custom scrolls of your chosen school.
 
-| Phase        | Goal                                                             |
-|--------------|------------------------------------------------------------------|
-| Early        | Explore structures, loot scrolls and Arcane Essence             |
-| Mid-game     | Build an Arcane Anvil, upgrade spell levels, brew ink           |
-| Late-game    | Defeat bosses (the Dead King, Fire Boss), unlock legendary gear |
+   **The three progression phases:**
 
-**Key items:**
+   | Phase        | Goal                                                             |
+   |--------------|------------------------------------------------------------------|
+   | Early        | Explore structures, loot scrolls and Arcane Essence             |
+   | Mid-game     | Build an Arcane Anvil, upgrade spell levels, brew ink           |
+   | Late-game    | Defeat bosses (the Dead King, Fire Boss), unlock legendary gear |
 
-| Item                    | What it does                                            |
-|-------------------------|---------------------------------------------------------|
-| Spell Scroll            | Contains one spell; inscribe it into a book to use it   |
-| Arcane Essence          | Core crafting material for all magic gear               |
-| Inscription Table       | Workstation for slotting scrolls into spell books       |
-| Arcane Anvil            | Upgrades spells, binds spells to weapons                |
-| Alchemist Cauldron      | Brews inks from spells for late-game scroll crafting    |
-| Wandering Magician Set  | Cheap early armor with mana and spell power bonuses     |
-| Staff                   | Cast spells by right-clicking; frees your offhand       |
-| School-specific Armor   | 10 armor sets, each boosting a specific magic school    |
+   **Key items:**
 
-**Wiki:** [https://iron.wiki/](https://iron.wiki/)
+   | Item                    | What it does                                            |
+   |-------------------------|---------------------------------------------------------|
+   | Spell Scroll            | Contains one spell; inscribe it into a book to use it   |
+   | Arcane Essence          | Core crafting material for all magic gear               |
+   | Inscription Table       | Workstation for slotting scrolls into spell books       |
+   | Arcane Anvil            | Upgrades spells, binds spells to weapons                |
+   | Alchemist Cauldron      | Brews inks from spells for late-game scroll crafting    |
+   | Wandering Magician Set  | Cheap early armor with mana and spell power bonuses     |
+   | Staff                   | Cast spells by right-clicking; frees your offhand       |
+   | School-specific Armor   | 10 armor sets, each boosting a specific magic school    |
 
-> **Pro tip:** There is an in-game guide book for this mod accessible via Patchouli.
-> Run the command `/give @p patchouli:guide_book[patchouli:book="irons_spellbooks:iss_guide_book"]`
-> in chat to receive it. It covers everything from spell schools to progression steps
-> and is well worth reading early on.
+   **Wiki:** [https://iron.wiki/](https://iron.wiki/)
+
+   > **Pro tip:** There is an in-game guide book for this mod accessible via Patchouli.
+   > Run the command `/give @p patchouli:guide_book[patchouli:book="irons_spellbooks:iss_guide_book"]`
+   > in chat to receive it. It covers everything from spell schools to progression steps
+   > and is well worth reading early on.
+</details> 
+
 
 [^ Back to Top](#table-of-contents)
 
