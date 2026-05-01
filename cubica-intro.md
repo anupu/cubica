@@ -185,71 +185,6 @@ modpack.
 
 ---
 
-## The Aether
-
-**What is it?**
-The Aether is one of Minecraft's most iconic mods -- a sky dimension that is the
-complete opposite of the Nether. It is bright, floating, and full of islands, alien
-mobs, and three unique dungeons each with their own boss. Think of it as a parallel
-mid-game adventure path alongside the Nether.
-
-![1777667980597](image/cubica-intro/1777667980597.png)
-
-<details>
-   <summary><ins>I want to know more</ins></summary>
-
-   **How to get started:**
-
-   1. You need **Glowstone blocks** first (found in the Nether ceiling, or buy from
-      Piglin traders). Build a portal frame the same shape as a Nether portal, but
-      use **Glowstone blocks** instead of Obsidian.
-
-      ![1777667917983](image/cubica-intro/1777667917983.png)
-
-   2. Light it with a **bucket of water** (right-click the inside of the frame).
-      The portal turns blue and shimmery. Step through!
-
-   3. A few crucial things to know immediately upon arrival:
-      - **Regular torches and lanterns cannot be placed in the Aether.** Use
-      **Ambrosium Torches** (Ambrosium Shard over a Skyroot Stick) instead.
-      - **Vanilla tools mine Aether blocks as slowly as your bare hand.** Craft
-      **Skyroot tools** immediately from Skyroot Logs (the local wood type).
-      - **Falling off the edge sends you back to the Overworld**, spawning high above
-      your portal. Put water around your portal exit before exploring near edges!
-      - The Aether has **Eternal Day** until you defeat the final dungeon boss.
-      You cannot sleep in beds until then.
-
-   4. Gather resources in this order:
-      - **Skyroot** (the local wood) for tools and early crafting
-      - **Holystone** (the local stone) for better tools
-      - **Ambrosium Shards** (from Ambrosium Ore -- the Aether's coal) for torches and fuel
-      - **Zanite Gemstones** (from Zanite Ore -- equivalent to Iron) for strong tools
-      - **Gravitite Ore** (the top-tier material; floats upward when mined -- catch it!)
-
-
-   5. Tame a **Moa** as your flying mount! Moa eggs can be found and hatched in the
-      **Incubator** (an Aether utility block). Moas can jump multiple times mid-air,
-      making navigation across the floating islands much safer. With the
-      **Protect Your Moa** addon in this pack, your Moa has extra protection options.
-
-   **Dungeon progression (in order):**
-
-   | Dungeon        | Boss            | Key tip                                         |
-   |----------------|-----------------|--------------------------------------------------|
-   | Bronze Dungeon | The Slider      | Cannot take sword damage! Use a pickaxe or axe  |
-   | Silver Dungeon | Valkyrie Queen  | Kill 10 Valkyries first to earn Victory Medals  |
-   | Gold Dungeon   | The Sun Spirit  | Reflect his white orbs back at him to deal damage|
-
-   > **Pro tip:** Look for ore on the underside of islands! Build scaffolding down to
-   > a Cold Aercloud (white cloud block) and look upward -- rare ores like Zanite and
-   > Gravitite often generate there, visible from below. It is safer and faster than
-   > digging straight down.
-</details>
-
-[^ Back to Top](#table-of-contents)
-
----
-
 ## Other Magic Mods
 
 This pack has several more magic mods worth knowing about. They are a bit more niche
@@ -667,6 +602,71 @@ supplies your base with resources around the clock.
 ---
 
 # New Dimensions
+
+---
+
+## The Aether
+
+**What is it?**
+The Aether is one of Minecraft's most iconic mods -- a sky dimension that is the
+complete opposite of the Nether. It is bright, floating, and full of islands, alien
+mobs, and three unique dungeons each with their own boss. Think of it as a parallel
+mid-game adventure path alongside the Nether.
+
+![1777667980597](image/cubica-intro/1777667980597.png)
+
+<details>
+   <summary><ins>I want to know more</ins></summary>
+
+   **How to get started:**
+
+   1. You need **Glowstone blocks** first (found in the Nether ceiling, or buy from
+      Piglin traders). Build a portal frame the same shape as a Nether portal, but
+      use **Glowstone blocks** instead of Obsidian.
+
+      ![1777667917983](image/cubica-intro/1777667917983.png)
+
+   2. Light it with a **bucket of water** (right-click the inside of the frame).
+      The portal turns blue and shimmery. Step through!
+
+   3. A few crucial things to know immediately upon arrival:
+      - **Regular torches and lanterns cannot be placed in the Aether.** Use
+      **Ambrosium Torches** (Ambrosium Shard over a Skyroot Stick) instead.
+      - **Vanilla tools mine Aether blocks as slowly as your bare hand.** Craft
+      **Skyroot tools** immediately from Skyroot Logs (the local wood type).
+      - **Falling off the edge sends you back to the Overworld**, spawning high above
+      your portal. Put water around your portal exit before exploring near edges!
+      - The Aether has **Eternal Day** until you defeat the final dungeon boss.
+      You cannot sleep in beds until then.
+
+   4. Gather resources in this order:
+      - **Skyroot** (the local wood) for tools and early crafting
+      - **Holystone** (the local stone) for better tools
+      - **Ambrosium Shards** (from Ambrosium Ore -- the Aether's coal) for torches and fuel
+      - **Zanite Gemstones** (from Zanite Ore -- equivalent to Iron) for strong tools
+      - **Gravitite Ore** (the top-tier material; floats upward when mined -- catch it!)
+
+
+   5. Tame a **Moa** as your flying mount! Moa eggs can be found and hatched in the
+      **Incubator** (an Aether utility block). Moas can jump multiple times mid-air,
+      making navigation across the floating islands much safer. With the
+      **Protect Your Moa** addon in this pack, your Moa has extra protection options.
+
+   **Dungeon progression (in order):**
+
+   | Dungeon        | Boss            | Key tip                                         |
+   |----------------|-----------------|--------------------------------------------------|
+   | Bronze Dungeon | The Slider      | Cannot take sword damage! Use a pickaxe or axe  |
+   | Silver Dungeon | Valkyrie Queen  | Kill 10 Valkyries first to earn Victory Medals  |
+   | Gold Dungeon   | The Sun Spirit  | Reflect his white orbs back at him to deal damage|
+
+   > **Pro tip:** Look for ore on the underside of islands! Build scaffolding down to
+   > a Cold Aercloud (white cloud block) and look upward -- rare ores like Zanite and
+   > Gravitite often generate there, visible from below. It is safer and faster than
+   > digging straight down.
+</details>
+
+[^ Back to Top](#table-of-contents)
 
 ---
 
