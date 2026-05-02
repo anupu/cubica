@@ -399,10 +399,7 @@ complete industrial base.
       **Creosote Oil** as a byproduct. Creosote Oil is required to craft **Treated Wood**,
       which is used in almost every IE machine.
 
-      <!-- IMAGE PLACEHOLDER -->
-      <!-- Screenshot: The Coke Oven multi-block assembled and running, with smoke particles -->
-      <!-- Source: https://ftb.fandom.com/wiki/Coke_Oven_(Immersive_Engineering) -->
-      ![Immersive Engineering Coke Oven](PLACEHOLDER_ie_coke_oven.png)
+      ![alt text](image.png)
 
    4. Build the **Crude Blast Furnace** next (also a multi-block) to produce **Steel**
       from Iron and Coal Coke. Steel is needed for almost all mid- and late-game IE
@@ -413,11 +410,6 @@ complete industrial base.
       power source is the **Kinetic Dynamo**, which converts Create rotational force
       directly into IF. Connect it to your machines via **Wire Coils** strung between
       **Connectors**.
-
-      <!-- IMAGE PLACEHOLDER -->
-      <!-- Screenshot: IE wire coils strung between two connectors on machines -->
-      <!-- Source: https://www.minecraft-guides.com/mod/immersive-engineering/ -->
-      ![IE Wire Coils Between Machines](PLACEHOLDER_ie_wire_coils.png)
 
    **Key IE items and machines:**
 
@@ -432,6 +424,8 @@ complete industrial base.
    | Engineer's Revolver| A powerful and moddable gun weapon                       |
    | Railgun            | Late-game energy weapon with extreme range and power     |
    | Conveyor Belt      | IE's own horizontal item transport system                |
+
+   **Guide:** https://www.minecraft-guides.com/mod/immersive-engineering/
 
    > **Pro tip:** If a multi-block refuses to form when you hit it with the Hammer, open
    > the Engineer's Manual and look at the 3D blueprint for that machine. Check block

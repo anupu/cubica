@@ -401,10 +401,7 @@ vollständige Industriebasis.
       **Kreosotöl** als Nebenprodukt. Kreosotöl ist erforderlich, um **Behandeltes Holz** herzustellen,
       das in fast jeder IE-Maschine verwendet wird.
 
-      <!-- IMAGE PLACEHOLDER -->
-      <!-- Screenshot: The Coke Oven multi-block assembled and running, with smoke particles -->
-      <!-- Source: https://ftb.fandom.com/wiki/Coke_Oven_(Immersive_Engineering) -->
-      ![Immersive Engineering Coke Oven](PLACEHOLDER_ie_coke_oven.png)
+      ![alt text](image.png)
 
    4. Baue als nächstes den **Groben Hochofen** (auch ein Multi-Block), um **Stahl**
       aus Eisen und Koks herzustellen. Stahl wird für fast alle mittleren und späten IE-
@@ -415,11 +412,6 @@ vollständige Industriebasis.
       Energiequelle ist der **Kinetische Dynamo**, der Rotationskraft von Create
       direkt in IF umwandelt. Verbinde ihn mit deinen Maschinen über **Drahtspulen**, die zwischen
       **Verbindern** gespannt sind.
-
-      <!-- IMAGE PLACEHOLDER -->
-      <!-- Screenshot: IE wire coils strung between two connectors on machines -->
-      <!-- Source: https://www.minecraft-guides.com/mod/immersive-engineering/ -->
-      ![IE Wire Coils Between Machines](PLACEHOLDER_ie_wire_coils.png)
 
    **Wichtige IE-Gegenstände und Maschinen:**
 
