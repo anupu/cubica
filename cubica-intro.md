@@ -11,7 +11,6 @@
 - [Magic and RPG Mods](#magic-and-rpg-mods)
   - [Iron's Spells 'n Spellbooks](#irons-spells-n-spellbooks)
   - [Apotheosis](#apotheosis)
-  - [The Aether](#the-aether)
   - [Other Magic Mods](#other-magic-mods)
 - [Tech and Automation Mods](#tech-and-automation-mods)
   - [Create](#create)
@@ -21,6 +20,7 @@
   - [Farmer's Delight](#farmers-delight)
   - [Mystical Agriculture](#mystical-agriculture)
 - [New Dimensions](#new-dimensions)
+  - [The Aether](#the-aether)
   - [Deeper and Darker](#deeper-and-darker)
   - [The Undergarden](#the-undergarden)
 
