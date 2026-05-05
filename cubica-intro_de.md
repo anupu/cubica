@@ -10,6 +10,8 @@
 
 ## Inhaltsverzeichnis
 
+- [Allgemein](#allgemein)
+  - [Jobs+](#jobs+)
 - [Magie- und RPG-Mods](#magie--und-rpg-mods)
   - [Iron's Spells 'n Spellbooks](#irons-spells-n-spellbooks)
   - [Apotheosis](#apotheosis)
@@ -25,6 +27,15 @@
   - [The Aether](#the-aether)
   - [Deeper and Darker](#deeper-and-darker)
   - [The Undergarden](#the-undergarden)
+
+---
+
+# Allgemein
+
+Neben den größeren Mods welche in den nachfolgenden Absätzen erklärt werden, enthält das Modpack einige Mods die kleinere Veränderungen hinzufügen.
+
+## Jobs+
+Eine Mod welche ein handlungsspezifisches Levelsystem hinzufügt. Wähle eine Berufung, und schalte neue Fähigkeiten und Waffen frei. Mit 'J' öffnest du das Job-Menü.
 
 ---
 

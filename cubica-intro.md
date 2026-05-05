@@ -8,6 +8,8 @@
 
 ## Table of Contents
 
+- [General](#general)
+  - [Jobs+](#jobs+)
 - [Magic and RPG Mods](#magic-and-rpg-mods)
   - [Iron's Spells 'n Spellbooks](#irons-spells-n-spellbooks)
   - [Apotheosis](#apotheosis)
@@ -23,6 +25,15 @@
   - [The Aether](#the-aether)
   - [Deeper and Darker](#deeper-and-darker)
   - [The Undergarden](#the-undergarden)
+
+---
+
+# General
+
+Besides the major mods describes in the following sections, there are some mods that add minor tweaks which might come in handy to know about at the beginning of the game.
+
+## Jobs+
+A progression through usage mod. Choose a profession, and unlock new skills and weapons. Press 'J' to open the Job menu and choose a job.
 
 ---
 
